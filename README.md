@@ -34,6 +34,8 @@ skip-gram（慢、对罕见字有利）vs CBOW（快）
 
 文本（window）大小：skip-gram通常在10附近，CBOW通常在5附近
 
-关于Doc2Vec的原理以及其他的一些详细介绍请参考我的博客：
+**关于Doc2Vec的原理以及其他的一些详细介绍请参考我的博客：**
+
 https://blog.csdn.net/qq_16633405/article/details/80227805
+
 https://blog.csdn.net/qq_16633405/article/details/80480300
